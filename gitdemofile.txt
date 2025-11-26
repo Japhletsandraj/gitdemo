@@ -1,2 +1,3 @@
 hlooo checking
 yo this is cool :3
+git checkout <branch name> = get into branch
